@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#
+# Using dnspython lib. Make sure to install it before using: pip install dnspython
+#
 import dns.resolver
 import argparse
 import os
